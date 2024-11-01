@@ -1,8 +1,4 @@
-[
-    { "name": "JUANDA", "selected": false },
-    { "name": "HASTARI", "selected": false },
-    { "name": "ATHA", "selected": false },
-    { "name": "MAWADDAH", "selected": false },
-    { "name": "Nama 5", "selected": false },
-    { "name": "Nama 6", "selected": false }
-]
+{
+    "completedParticipants": [],
+    "selectedGroups": []
+}
